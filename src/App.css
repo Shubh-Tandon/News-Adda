@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.myContainer1 {
+  background-color: #D9ACF5 ;
+}
+
+.myContainerNav{
+  background-color: #AAE3E2;
+}
+
+.myContainerCard{
+  background-color: #FFCEFE;
+}
