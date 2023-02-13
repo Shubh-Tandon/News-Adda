@@ -8,7 +8,7 @@ import News from './components/News';
 
 
 import {
-  BrowserRouter,
+ HashRouter as BrowserRouter,
    Switch, 
    Route,
   Link,
